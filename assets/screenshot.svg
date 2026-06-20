@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#f7f7f7" stroke="#ccc" stroke-width="2"/>
+  <rect x="40" y="40" width="720" height="130" fill="#ffffff" stroke="#d1d1d1" stroke-width="1"/>
+  <rect x="40" y="190" width="520" height="180" fill="#ffffff" stroke="#d1d1d1" stroke-width="1"/>
+  <rect x="580" y="190" width="160" height="60" fill="#e8f0ff" stroke="#bdd7ff" stroke-width="1" rx="10"/>
+  <rect x="580" y="270" width="160" height="60" fill="#e8f0ff" stroke="#bdd7ff" stroke-width="1" rx="10"/>
+  <text x="400" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#555">MediSafeTracker Screenshot</text>
+  <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#777">Placeholder image showing the app interface</text>
+</svg>
